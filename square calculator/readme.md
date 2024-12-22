@@ -17,7 +17,3 @@ This project is a simple JavaScript application that calculates the square of a 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## Contact
-
-For any questions or suggestions, please contact [my email](pankaj8521539022@gmail.com).
