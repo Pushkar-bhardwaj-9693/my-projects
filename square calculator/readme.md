@@ -8,18 +8,6 @@ This project is a simple JavaScript application that calculates the square of a 
 - Clear and user-friendly interface
 - Lightweight and fast
 
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/Pushkar-bhardwaj-9693/square-calculator.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd square-calculator
-    ```
-3. Open `index.html` in your preferred web browser.
-
 ## Usage
 
 1. Enter a number in the input field.
