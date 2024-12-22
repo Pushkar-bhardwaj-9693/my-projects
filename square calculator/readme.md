@@ -30,10 +30,6 @@ This project is a simple JavaScript application that calculates the square of a 
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
-For any questions or suggestions, please contact [your email](mailto:youremail@example.com).
+For any questions or suggestions, please contact [my email](pankaj8521539022@gmail.com).
