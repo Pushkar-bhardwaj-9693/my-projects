@@ -12,7 +12,7 @@ This project is a simple JavaScript application that calculates the square of a 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/square-calculator.git
+    git clone https://github.com/Pushkar-bhardwaj-9693/square-calculator.git
     ```
 2. Navigate to the project directory:
     ```sh
